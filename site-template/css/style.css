@@ -1,0 +1,10 @@
+form .form-group {
+    margin-bottom: 4px!important; 
+    }
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;            /* Footer height */
+    }
